@@ -1,4 +1,4 @@
-@import '../cssGrid/reset.css';
-@import '../cssGrid/base.css';
+@import './reset.css';
+@import './base.css';
 /* @import '../cssGrid/layout.css'; */
 /* @import '../cssGrid/module.css'; */
